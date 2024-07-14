@@ -1,5 +1,6 @@
 Resources: https://github.com/dstl/YAWNING-TITAN
 
+```bibtex
 @inproceedings{inproceedings,
  author = {Andrew, Alex and Spillard, Sam and Collyer, Joshua and Dhir, Neil},
  year = {2022},
@@ -8,4 +9,5 @@ Resources: https://github.com/dstl/YAWNING-TITAN
  maintitle = {International Confernece on Machine Learning (ICML)},
  booktitle = {Workshop on Machine Learning for Cybersecurity (ML4Cyber)}
 }
+```
 
