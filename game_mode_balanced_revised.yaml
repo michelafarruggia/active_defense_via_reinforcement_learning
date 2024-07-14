@@ -1,7 +1,6 @@
 # low_skill_red_with_random_infection_perfect_detection.yaml
-# This file contains an example config for the generic network environment.
+# This file contains an example config for the generic network environment. Config modified anche customised from the original https://github.com/alan-turing-institute/causal-cyber-defence/blob/main/dcbo_config.yaml (Crown Copyright (C) Dstl 2021. Shared in confidence.)
 
-# Crown Copyright (C) Dstl 2021. Shared in confidence.
 RED:
   # The red agents skill level. Higher means that red is more likely to succeed in attacks
   red_skill: 0.5
