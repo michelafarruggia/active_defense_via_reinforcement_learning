@@ -1,4 +1,3 @@
-# low_skill_red_with_random_infection_perfect_detection.yaml
 # This file contains an example config for the generic network environment. Config modified anche customised from the original https://github.com/alan-turing-institute/causal-cyber-defence/blob/main/dcbo_config.yaml (Crown Copyright (C) Dstl 2021. Shared in confidence.)
 
 RED:
