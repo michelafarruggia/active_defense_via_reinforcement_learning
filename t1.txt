@@ -1,8 +1,8 @@
 0 # initial state (uncompromised nodes)
 [2] # terminal state 
-(0,0,'!c&!m&!h | !c&!m&h | c&!m&h',ConstantRewardFunction(0))
+(0,0,'!c&!m&!h',ConstantRewardFunction(0))
 (0,1,'c&!m&!h',ConstantRewardFunction(0))
-(0,2,'!c&m&!h | c&m&!h', ConstantRewardFunction(1))
-(1,0,'!c&!m&!h | !c&!m&h | c&!m&h',ConstantRewardFunction(0))
+(0,2,'!c&m&!h|c&m&!h', ConstantRewardFunction(1))
+(1,0,'!c&!m&!h',ConstantRewardFunction(0))
 (1,1,'c&!m&!h',ConstantRewardFunction(0))
-(1,2,'!c&m&!h | c&m&!h',ConstantRewardFunction(1))
+(1,2,'!c&m&!h|c&m&!h',ConstantRewardFunction(1))
