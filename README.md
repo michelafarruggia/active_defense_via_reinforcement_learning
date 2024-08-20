@@ -1,3 +1,6 @@
+The aim of this project is to integrate reward machines into the Yawning Titan simulator.
+
+References:
 ```
 @inproceedings{inproceedings,
  author = {Andrew, Alex and Spillard, Sam and Collyer, Joshua and Dhir, Neil},
