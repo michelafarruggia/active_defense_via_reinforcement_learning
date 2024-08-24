@@ -1,4 +1,4 @@
-The aim of this project is to integrate reward machines into the Yawning Titan simulator.
+The aim of this project is to integrate reward machines into the Yawning Titan simulator https://github.com/dstl/YAWNING-TITAN/tree/main
 
 References:
 ```
@@ -11,6 +11,7 @@ References:
  booktitle = {Workshop on Machine Learning for Cybersecurity (ML4Cyber)}
 }
 ```
+The features of the implemented Reward Machine are heavily based on those implemented in the project https://github.com/RodrigoToroIcarte/reward_machines/tree/master. The code in the 'reward_machines' folder comes from this project, with modifications to the rm_environment.py file to adapt it to our reward machine.
 
 ```
 @article{tor-etal-arxiv20,
