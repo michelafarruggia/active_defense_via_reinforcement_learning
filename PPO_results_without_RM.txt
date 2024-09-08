@@ -1,0 +1,357 @@
+--Game over--
+Total number of Games Played:  190
+Stats over the last 10 games:
+Average episode length:  19 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+connect                      7  36.84%
+isolate                      6  31.58%
+restore_node                 6  31.58%
+do_nothing                   0  0.0%
+scan                         0  0.0%
+
+
+
+--Game over--
+Total number of Games Played:  200
+Stats over the last 10 games:
+Average episode length:  6 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+isolate                      2  40.0%
+restore_node                 2  40.0%
+connect                      1  20.0%
+do_nothing                   0  0.0%
+
+
+
+--Game over--
+Total number of Games Played:  210
+Stats over the last 10 games:
+Average episode length:  4 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+isolate                      2  50.0%
+connect                      1  25.0%
+restore_node                 1  25.0%
+scan                         0  0.0%
+do_nothing                   0  0.0%
+
+
+
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 12.7     |
+|    ep_rew_mean     | 0        |
+| time/              |          |
+|    fps             | 667      |
+|    iterations      | 1        |
+|    time_elapsed    | 3        |
+|    total_timesteps | 2048     |
+---------------------------------
+--Game over--
+Total number of Games Played:  220
+Stats over the last 10 games:
+Average episode length:  4 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+connect                      1  33.33%
+restore_node                 1  33.33%
+isolate                      1  33.33%
+do_nothing                   0  0.0%
+
+
+
+--Game over--
+Total number of Games Played:  230
+Stats over the last 10 games:
+Average episode length:  4 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+connect                      1  33.33%
+restore_node                 1  33.33%
+isolate                      1  33.33%
+scan                         0  0.0%
+
+
+
+--Game over--
+Total number of Games Played:  240
+Stats over the last 10 games:
+Average episode length:  8 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+isolate                      3  37.5%
+connect                      3  37.5%
+restore_node                 2  25.0%
+do_nothing                   0  0.0%
+
+
+
+--Game over--
+Total number of Games Played:  250
+Stats over the last 10 games:
+Average episode length:  4 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+restore_node                 1  33.33%
+connect                      1  33.33%
+isolate                      1  33.33%
+do_nothing                   0  0.0%
+scan                         0  0.0%
+
+
+
+--Game over--
+Total number of Games Played:  260
+Stats over the last 10 games:
+Average episode length:  17 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+connect                      6  35.29%
+isolate                      6  35.29%
+restore_node                 5  29.41%
+scan                         0  0.0%
+do_nothing                   0  0.0%
+
+
+
+--Game over--
+Total number of Games Played:  270
+Stats over the last 10 games:
+Average episode length:  4 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+isolate                      2  50.0%
+restore_node                 1  25.0%
+connect                      1  25.0%
+
+
+
+--Game over--
+Total number of Games Played:  280
+Stats over the last 10 games:
+Average episode length:  47 
+
+Blue Won    Red Won
+----------  ---------
+1           9
+10.0%       90.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+isolate                     16  34.04%
+restore_node                15  31.91%
+connect                     14  29.79%
+scan                         1  2.13%
+do_nothing                   1  2.13%
+
+
+
+--Game over--
+Total number of Games Played:  290
+Stats over the last 10 games:
+Average episode length:  24 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+restore_node                 8  36.36%
+isolate                      8  36.36%
+connect                      6  27.27%
+scan                         0  0.0%
+do_nothing                   0  0.0%
+
+
+
+--Game over--
+Total number of Games Played:  300
+Stats over the last 10 games:
+Average episode length:  4 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+connect                      2  40.0%
+isolate                      2  40.0%
+restore_node                 1  20.0%
+scan                         0  0.0%
+do_nothing                   0  0.0%
+
+
+
+--Game over--
+Total number of Games Played:  310
+Stats over the last 10 games:
+Average episode length:  4 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+connect                      1  33.33%
+isolate                      1  33.33%
+restore_node                 1  33.33%
+scan                         0  0.0%
+
+
+
+--Game over--
+Total number of Games Played:  320
+Stats over the last 10 games:
+Average episode length:  4 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+connect                      2  50.0%
+isolate                      1  25.0%
+restore_node                 1  25.0%
+
+
+
+--Game over--
+Total number of Games Played:  330
+Stats over the last 10 games:
+Average episode length:  5 
+
+Blue Won    Red Won
+----------  ---------
+0           10
+0.0%        100.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+restore_node                 2  33.33%
+connect                      2  33.33%
+isolate                      2  33.33%
+scan                         0  0.0%
+
+
+
+--Game over--
+Total number of Games Played:  340
+Stats over the last 10 games:
+Average episode length:  63 
+
+Blue Won    Red Won
+----------  ---------
+2           8
+20.0%       80.0%
+
+
+Action          Avg Times Used  Percentage of Action Usage
+------------  ----------------  ----------------------------
+isolate                     21  33.87%
+connect                     21  33.87%
+restore_node                18  29.03%
+scan                         1  1.61%
+do_nothing                   1  1.61%
+
+
+
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 18.4        |
+|    ep_rew_mean          | 0.03        |
+| time/                   |             |
+|    fps                  | 619         |
+|    iterations           | 2           |
+|    time_elapsed         | 6           |
+|    total_timesteps      | 4096        |
+| train/                  |             |
+|    approx_kl            | 0.023121368 |
+|    clip_fraction        | 0.195       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -4.25       |
+|    explained_variance   | -1.36       |
+|    learning_rate        | 0.0003      |
+|    loss                 | -0.072      |
+|    n_updates            | 10          |
+|    policy_gradient_loss | -0.0349     |
+|    value_loss           | 0.00514     |
+-----------------------------------------
