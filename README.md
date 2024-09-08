@@ -22,4 +22,4 @@ The features of the implemented Reward Machine are heavily based on those implem
 }
 ```
 
-The original YAML configuration can be found at https://github.com/alan-turing-institute/causal-cyber-defence/blob/main/dcbo_config.yaml. We have modified it to better suit our experiment.
+The original YAML file for game configuration can be found at https://github.com/alan-turing-institute/causal-cyber-defence/blob/main/dcbo_config.yaml. We have modified it to better suit our experiment.
